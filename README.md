@@ -23,9 +23,9 @@
     ![Next.js](https://img.shields.io/badge/-Next.js-20232A?style=for-the-badge&logo=next.js&logoColor=FFFFFF)&nbsp;
     ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
     ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+    ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
    
-  &nbsp; ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-20232A?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)&nbsp;
-  ![Nest.js](https://img.shields.io/badge/-Nest.js-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
+  &nbsp; ![Nest.js](https://img.shields.io/badge/-Nest.js-20232A?style=for-the-badge&logo=nestjs&logoColor=E0234E)&nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=336791)&nbsp;
     
