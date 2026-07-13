@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=180&section=header&text=Lucas%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Enterprise%20Systems%20%E2%80%A2%20Scalable%20Architecture&descAlignY=54&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=180&section=header&text=Lucas%20Martins&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%E2%80%A2%20Enterprise%20Systems%20%E2%80%A2%20Scalable%20Architecture&descAlignY=54&descSize=16"/>
 
 <div align="center">
 
@@ -8,6 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Martins-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-martins10/)
 [![Location](https://img.shields.io/badge/📍-São%20Sebastião%20do%20Paraíso%2C%20MG-0d1b2a?style=flat-square)](https://github.com/lmartins10)
+[![Profile Views](https://komarev.com/ghpvc/?username=lmartins10&style=flat-square&color=2563EB&label=Profile+Views)](https://github.com/lmartins10)
 
 </div>
 
@@ -387,6 +388,13 @@ const engineer: Profile = {
 
 <div align="center">
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lmartins10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmartins10&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+
+</div>
+
+<div align="center">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=lmartins10&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
@@ -394,6 +402,16 @@ const engineer: Profile = {
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lmartins10&theme=tokyo-night&hide_border=true&area=true&area_color=38BDF8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lmartins10/lmartins10/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lmartins10/lmartins10/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/lmartins10/lmartins10/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
 
@@ -448,4 +466,4 @@ If you're building **enterprise software**, scaling a **corporate platform**, or
 <sub>Crafting enterprise software with clarity, resilience, and intent.</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=120&section=footer&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:2563eb,100:06b6d4&height=120&section=footer&animation=twinkling"/>
