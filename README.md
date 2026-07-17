@@ -164,7 +164,7 @@ const engineer: Profile = {
 <div align="center">
 
 ![GitHub API](https://img.shields.io/badge/GitHub%20API-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Technospeed](https://img.shields.io/badge/Technospeed-0d1117?style=for-the-badge&logoColor=60A5FA)
+![Tecnospeed](https://img.shields.io/badge/Tecnospeed-0d1117?style=for-the-badge&logoColor=60A5FA)
 ![Questor](https://img.shields.io/badge/Questor-0d1117?style=for-the-badge&logoColor=60A5FA)
 ![Zoop](https://img.shields.io/badge/Zoop-0d1117?style=for-the-badge&logoColor=60A5FA)
 ![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logoColor=60A5FA)
